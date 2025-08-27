@@ -1,7 +1,7 @@
  A RESTful API for managing tasks with user authentication and file upload support, built with Node.js, Express, and JSON file storage.
 
  ## Setup Instructions
- 1. Clone the repository.
+ 1. Clone the repository OR UNZIP file.
  2. Run `npm install` to install dependencies.
  3. Create a `.env` file with `PORT=3000` and `JWT_SECRET=your_jwt_secret_key`.
  4. Ensure an `uploads` folder exists in the project root.
